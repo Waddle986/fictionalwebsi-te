@@ -1,0 +1,20 @@
+body{
+    background-color: aliceblue;
+}
+
+h1{
+    text-align: center;
+}
+.snoopy1{
+    display: inline-block;
+}
+h4{
+    display: inline;
+    font-size: 30px;
+}
+.house{
+    width: 400px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
