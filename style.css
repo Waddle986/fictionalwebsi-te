@@ -1,20 +1,45 @@
+@font-face {
+    font-family: brew;
+    src: url("Brewed Coffee.otf");
+}
+
 body{
-    background-color: aliceblue;
+    background-color: rgb(246, 248, 250);
+    text-align:center;
 }
 
 h1{
     text-align: center;
+    font-family: Alfa Slab One;
+    color:#e42121;
+   font-size: 70px;
+   text-shadow: 3px 3px black;
 }
 .snoopy1{
-    display: inline-block;
+    width: 400px;
 }
 h4{
-    display: inline;
-    font-size: 30px;
+    text-align:left;
+    font-size: 48px;
+    font-family: Alfa Slab One;
+    text-shadow: 3px 3px white;
+}
+p{
+    text-align: left;
+    font-size: 35px;
+    font-family: Alfa Slab One;
 }
 .house{
     width: 400px;
-    display:block;
-    margin-left: auto;
-    margin-right: auto;
+}
+
+h3{
+    text-align:left;
+    font-size: 48px; 
+    font-family: Alfa Slab One;
+    text-shadow: 3px 3px #e42121;
+}
+
+.flyingace{
+    display: block;
 }
