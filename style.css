@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: rgb(246, 248, 250);
+    background-image: linear-gradient(to right, aliceblue, #ee8e8e);
     text-align:center;
 }
 
@@ -39,7 +39,13 @@ h3{
     font-family: Alfa Slab One;
     text-shadow: 3px 3px #e42121;
 }
-
+.joecool{
+    border-color: #e42121;
+    border-width: 8pxpx;
+    border-style: solid;
+    width: 400px;
+    display: inline-block;
+}
 a{
 color:#ffd900;
 font-size: 35px;
@@ -54,8 +60,9 @@ a:hover{
 }
 
 #dance{
+    display: inline-block;
     border-color: #e42121;
-    border-width: 3px;
+    border-width: 8pxpx;
     border-style: solid;
     width: 400px;
 }
