@@ -17,6 +17,7 @@ h1{
 }
 .snoopy1{
     width: 400px;
+    display:inline;
 }
 h4{
     text-align:left;
